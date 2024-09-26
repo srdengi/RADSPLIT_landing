@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import LandingPage from './LandingPage'; // Asegúrate de que la ruta sea correcta
 
 const App = () => {
