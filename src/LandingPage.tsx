@@ -10,7 +10,7 @@ const LandingPage = () => {
     <div className="h-screen bg-gradient flex justify-center items-center margin-left"> {/* Agrega la clase aquí */}
       <div className="text-center bg-white p-8 rounded-lg shadow-md">
         <img
-          src="./public/logo1.svg"
+          src="./logo1.svg"
           alt="RadSplit Logo"
           className="w-36 h-36 mx-auto mb-4"
         />
